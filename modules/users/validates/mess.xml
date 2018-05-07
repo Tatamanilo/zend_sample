@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mess>
+    <ru>
+        <Users>
+            <valid>
+                <addadmin>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </addadmin>
+                <editadmin>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </editadmin>
+                <addsupport>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </addsupport>
+                <editsupport>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </editsupport>
+                <addmanager>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </addmanager>
+                <editmanager>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </editmanager>
+                <editaffiliate>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </editaffiliate>
+                <addaffiliate>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </addaffiliate>
+                <editmerchant>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </editmerchant>
+                <addmerchant>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </addmerchant>
+                <userlist>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </userlist>
+            </valid>
+            <texts>
+                <common>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                    <login><![CDATA[Логин (email)]]></login>
+                    <pass><![CDATA[Пароль]]></pass>
+                    <name><![CDATA[ФИО]]></name>
+                    <status><![CDATA[Статус]]></status>
+                    <activeStatus><![CDATA[Активен]]></activeStatus>
+                    <waitStatus><![CDATA[Ожидает]]></waitStatus>
+                    <banStatus><![CDATA[Забанен]]></banStatus>
+                    <deleteStatus><![CDATA[Удален]]></deleteStatus>
+                    <addInfo><![CDATA[Доп. Инфо.]]></addInfo>
+                    <additionalInfo><![CDATA[Доп. Инфо.]]></additionalInfo>
+                    <userRef><![CDATA[ID]]></userRef>
+                    <phone><![CDATA[Телефон]]></phone>
+                    <skype><![CDATA[Skype]]></skype>
+                    <icq><![CDATA[ICQ]]></icq>
+                    <search_login><![CDATA[Логин (email)]]></search_login>
+                    <search_id><![CDATA[ID]]></search_id>
+                    <search_userRef><![CDATA[User REF]]></search_userRef>
+                    <search_wmr><![CDATA[WMR]]></search_wmr>
+                    <wmr><![CDATA[WMR]]></wmr>
+                    <wmid><![CDATA[WMID]]></wmid>
+                </common>
+                <actions>
+                    <index>
+                        <adminTitle><![CDATA[Администраторы]]></adminTitle>
+                        <supportTitle><![CDATA[Саппорт]]></supportTitle>
+                        <managerTitle><![CDATA[Менеджеры]]></managerTitle>
+                        <merchantTitle><![CDATA[Реклы]]></merchantTitle>
+                        <merchantSubTitle><![CDATA[Реклы и их аккаунты]]></merchantSubTitle>
+                        <affiliateTitle><![CDATA[Аффилиейты]]></affiliateTitle>
+                    </index>
+                    <delete>
+                        <success><![CDATA[Запись успешно отмечена как удаленная]]></success>
+                        <title><![CDATA[Редактирование администратора]]></title>
+                    </delete>
+                    <editadmin>
+                        <success><![CDATA[Запись успешно отредактирована]]></success>
+                        <title><![CDATA[Редактирование администратора]]></title>
+                    </editadmin>
+                    <addadmin>
+                        <success><![CDATA[Запись успешно создана]]></success>
+                        <title><![CDATA[Добавление администратора]]></title>
+                    </addadmin>
+                    <editaffiliate>
+                        <success><![CDATA[Запись успешно отредактирована]]></success>
+                        <title><![CDATA[Редактирование аффилиейта]]></title>
+                    </editaffiliate>
+                    <addaffiliate>
+                        <success><![CDATA[Запись успешно создана]]></success>
+                        <title><![CDATA[Добавление аффилиейта]]></title>
+                    </addaffiliate>
+                    <editmerchant>
+                        <success><![CDATA[Запись успешно отредактирована]]></success>
+                        <title><![CDATA[Редактирование продавца]]></title>
+                    </editmerchant>
+                    <addmerchant>
+                        <success><![CDATA[Запись успешно создана]]></success>
+                        <title><![CDATA[Добавление продавца]]></title>
+                    </addmerchant>
+                </actions>
+            </texts>
+        </Users>
+        <Groups>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+                <edit>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </edit>
+            </valid>
+            <texts>
+                <common>
+                    <userGroupName><![CDATA[Название]]></userGroupName>
+                    <idUsers><![CDATA[Пользователи]]></idUsers>
+                </common>
+                <actions>
+                    <index>
+                        <adminTitle><![CDATA[Администраторы]]></adminTitle>
+                        <supportTitle><![CDATA[Саппорт]]></supportTitle>
+                        <managerTitle><![CDATA[Менеджеры]]></managerTitle>
+                        <merchantTitle><![CDATA[Реклы]]></merchantTitle>
+                        <merchantSubTitle><![CDATA[Реклы и их аккаунты]]></merchantSubTitle>
+                        <affiliateTitle><![CDATA[Аффилиейты]]></affiliateTitle>
+                    </index>
+                </actions>
+            </texts>
+        </Groups>
+        <Recls>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+                <edit>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </edit>
+            </valid>
+            <texts>
+                <common>
+                    <reclName><![CDATA[Имя]]></reclName>
+                    <reclStatus><![CDATA[Статус]]></reclStatus>
+                    <reclSalt><![CDATA[Salt]]></reclSalt>
+                    <reclApiKey><![CDATA[Api ключ]]></reclApiKey>
+                    <descr><![CDATA[Статус]]></descr>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                </common>
+                <actions>
+                    <index>
+
+                    </index>
+                </actions>
+            </texts>
+        </Recls>
+        <Auth>
+            <valid>
+                <authenticate>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </authenticate>
+            </valid>
+            <texts>
+                <common>
+                </common>
+                <actions>
+                    <authenticate>
+                        <login><![CDATA[Логин]]></login>
+                        <pass><![CDATA[Пароль]]></pass>
+                    </authenticate>
+                </actions>
+            </texts>
+        </Auth>
+    </ru>
+</mess>

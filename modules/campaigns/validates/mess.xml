@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mess>
+    <ru>
+        <Campaigns>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+            </valid>
+            <texts>
+                <common>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <logo><![CDATA[Лого]]></logo>
+                    <recl><![CDATA[Рекламодатель]]></recl>
+                    <idRecls><![CDATA[Рекламодатели]]></idRecls>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                    <campaignName><![CDATA[Название]]></campaignName>
+                    <campaignDescr><![CDATA[Условия]]></campaignDescr>
+                    <campaignStatus><![CDATA[Статус]]></campaignStatus>
+                    <campaignType><![CDATA[Тип]]></campaignType>
+                    <promoMaterials><![CDATA[Промо материалы]]></promoMaterials>
+                    <deepLink><![CDATA[Поддержка диплинков]]></deepLink>
+                    <sources><![CDATA[Источники трафика]]></sources>
+                    <priceOnLanding><![CDATA[Цена на лендинге]]></priceOnLanding>
+                    <hold><![CDATA[Время холда]]></hold>
+                    <holdWithNoDisable><![CDATA[Невозможно отключить холд]]></holdWithNoDisable>
+                    <activeStatus><![CDATA[Активен]]></activeStatus>
+                    <deleteStatus><![CDATA[Удален]]></deleteStatus>
+                    <addInfo><![CDATA[Доп. Инфо.]]></addInfo>
+                    <sale><![CDATA[заявка]]></sale>
+                    <appsale><![CDATA[подвержденная заявка]]></appsale>
+                    <validsale><![CDATA[валидная заявка]]></validsale>
+                    <paydsale><![CDATA[оплаченная заявка]]></paydsale>
+                    <reg><![CDATA[регистрация]]></reg>
+                    <level><![CDATA[достижение уровня]]></level>
+                    <effectreg><![CDATA[эффективная регистрация]]></effectreg>
+                    <activeplayer><![CDATA[активный игрок]]></activeplayer>
+                </common>
+                <actions>
+                    <index>
+                        <title><![CDATA[Офферы]]></title>
+                    </index>
+                </actions>
+            </texts>
+        </Campaigns>
+        <Categories>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустым!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+                <edit>
+                    <required><![CDATA['#name#' поле не может быть пустым!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </edit>
+            </valid>
+            <texts>
+                <common>
+                    <addCategory><![CDATA[Добавить Категорию]]></addCategory>
+                    <categoryDescr><![CDATA[Описание]]></categoryDescr>
+                    <categoryName><![CDATA[Название]]></categoryName>
+                    <editCategory><![CDATA[Редактировать Категорию]]></editCategory>
+                </common>
+                <actions>
+                    <index>
+                        <title><![CDATA[Категории]]></title>
+                    </index>
+                </actions>
+            </texts>
+        </Categories>
+        <Recls>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+            </valid>
+            <texts>
+                <common>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <idRecl><![CDATA[Рекламодатель]]></idRecl>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                    <transCountPerDay><![CDATA[Количество допустимых заявок]]></transCountPerDay>
+                </common>
+                <actions>
+                    <index>
+
+                    </index>
+                </actions>
+            </texts>
+        </Recls>
+        <Commissions>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+            </valid>
+            <texts>
+                <common>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <idRecl><![CDATA[Рекламодатель]]></idRecl>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                    <commissionName><![CDATA[Название коммиссии]]></commissionName>
+                    <target><![CDATA[Цель]]></target>
+                    <countries><![CDATA[Страны]]></countries>
+                    <approveType><![CDATA[Способ подтверждения]]></approveType>
+                    <commissionStatus><![CDATA[Статус]]></commissionStatus>
+                    <commissionType><![CDATA[Тип отчислений]]></commissionType>
+                    <isGroupCommission><![CDATA[Признак групповой коммиссии]]></isGroupCommission>
+                    <addNumber><![CDATA[Доп.№]]></addNumber>
+                    <priceRecl><![CDATA[Цена рекламодателя]]></priceRecl>
+                    <priceAdvert><![CDATA[Цена аффилиейта]]></priceAdvert>
+                    <validFrom><![CDATA[Действителен от]]></validFrom>
+                    <validTo><![CDATA[Действителен до]]></validTo>
+                    <sale><![CDATA[заявка]]></sale>
+                    <appsale><![CDATA[подвержденная заявка]]></appsale>
+                    <validsale><![CDATA[валидная заявка]]></validsale>
+                    <paydsale><![CDATA[оплаченная заявка]]></paydsale>
+                    <reg><![CDATA[регистрация]]></reg>
+                    <level><![CDATA[достижение уровня]]></level>
+                    <effectreg><![CDATA[эффективная регистрация]]></effectreg>
+                    <activeplayer><![CDATA[активный игрок]]></activeplayer>
+                </common>
+                <actions>
+                    <index>
+
+                    </index>
+                </actions>
+            </texts>
+        </Commissions>
+        <Landings>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+            </valid>
+            <texts>
+                <common>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                    <landingName><![CDATA[Название]]></landingName>
+                    <url><![CDATA[URL]]></url>
+                    <landingDescr><![CDATA[Описание]]></landingDescr>
+                    <landingStatus><![CDATA[Статус]]></landingStatus>
+                    <epc><![CDATA[EPC]]></epc>
+                    <forPrivate><![CDATA[Приватный]]></forPrivate>
+                </common>
+                <actions>
+                    <index>
+
+                    </index>
+                </actions>
+            </texts>
+        </Landings>
+        <Layers>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+            </valid>
+            <texts>
+                <common>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                    <layerName><![CDATA[Название]]></layerName>
+                    <layerLink><![CDATA[URL]]></layerLink>
+                    <defaultLink><![CDATA[URL дефолтный]]></defaultLink>
+                    <layerStatus><![CDATA[Статус]]></layerStatus>
+                    <forPrivate><![CDATA[Приватный]]></forPrivate>
+                    <epc><![CDATA[EPC]]></epc>       
+                </common>
+                <actions>
+                    <index>
+
+                    </index>
+                </actions>
+            </texts>
+        </Layers>
+    </ru>
+</mess>

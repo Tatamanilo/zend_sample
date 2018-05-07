@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <campaignName type="StripTags" required="1"/>
+    <campaignDescr type="StripTags" required="0"/>
+    <priceOnLanding type="Digits" required="0"/>
+    <campaignStatus type="StripTags" required="1"/>
+    <campaignType type="StripTags" required="1"/>
+    <hold type="Digits" required="1"/>
+</fields>

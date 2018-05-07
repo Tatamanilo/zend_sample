@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <reclName type="StripTags" required="1"/>
+    <reclSalt type="StripTags" required="0"/>
+    <reclApiKey type="StripTags" required="0"/>
+    <reclStatus type="StripTags" required="1"/>
+    <descr type="StripTags" required="0"/>
+</fields>

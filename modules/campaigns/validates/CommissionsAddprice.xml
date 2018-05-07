@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <priceRecl type="Float" required="1"/>
+    <priceAdvert type="Float" required="1"/>
+    <validFrom type="StripTags" required="1"/>
+    <validTo type="StripTags" required="1"/>
+</fields>

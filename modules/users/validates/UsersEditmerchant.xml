@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <login type="EmailAddress" required="1"/>
+    <pass type="StripTags" required="0"/>
+    <status type="StripTags" required="1"/>
+    <name type="StripTags" required="1"/>
+    <addInfo type="StripTags" required="0"/>
+</fields>

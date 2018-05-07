@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <search_login type="StripTags" required="0"/>
+    <search_userRef type="Digits" required="0"/>
+    <search_wmr type="Digits" required="0"/>
+</fields>

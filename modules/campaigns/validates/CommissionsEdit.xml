@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <commissionName type="StripTags" required="1"/>
+    <addNumber type="StripTags" required="0"/>
+    <target type="StripTags" required="1"/>
+    <idRecl type="Digits" required="1"/>
+    <countries type="StripTags" required="0"/>
+</fields>

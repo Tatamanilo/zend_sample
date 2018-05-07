@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mess>
+    <ru>
+        <Recls>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+                <edit>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </edit>
+            </valid>
+            <texts>
+                <common>
+                    <reclName><![CDATA[Имя]]></reclName>
+                    <reclStatus><![CDATA[Статус]]></reclStatus>
+                    <reclSalt><![CDATA[Salt]]></reclSalt>
+                    <reclApiKey><![CDATA[Api ключ]]></reclApiKey>
+                    <descr><![CDATA[Дет.инфа]]></descr>
+                    <onAccount><![CDATA[На счету]]></onAccount>
+                    <unpayed><![CDATA[Неоплаченых транзакций]]></unpayed>
+                    <balance><![CDATA[Баланс]]></balance>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                </common>
+                <actions>
+                    <index>
+                        <title><![CDATA[Реклы]]></title>
+                    </index>
+                </actions>
+            </texts>
+        </Recls>
+        <Payments>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+                <edit>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </edit>
+            </valid>
+            <texts>
+                <common>
+                    <wm><![CDATA[WebMoney]]></wm>
+                    <bank><![CDATA[Банковский перевод]]></bank>
+                    <other><![CDATA[Другое]]></other>
+                    <paySum><![CDATA[Сумма]]></paySum>
+                    <payDate><![CDATA[Дата]]></payDate>
+                    <paySystem><![CDATA[Тип]]></paySystem>
+                    <descr><![CDATA[Описание]]></descr>
+                </common>
+                <actions>
+                    <index>
+
+                    </index>
+                </actions>
+            </texts>
+        </Payments>
+    </ru>
+</mess>

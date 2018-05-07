@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <paySum type="Digits" required="1"/>
+</fields>

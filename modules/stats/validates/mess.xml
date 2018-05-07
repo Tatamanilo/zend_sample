@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mess>
+    <ru>
+        <Stats>
+            <valid>
+                <add>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </add>
+                <edit>
+                    <required><![CDATA['#name#' поле не может быть пустм!]]></required>
+                    <length><![CDATA['#name#' Длина поля должна быть более %min% и менее %max%!]]></length>
+                    <type><![CDATA[Неправильный формат поля '#name#'!]]></type>
+                </edit>
+            </valid>
+            <texts>
+                <common>
+                    <reclName><![CDATA[Имя]]></reclName>
+                    <reclStatus><![CDATA[Статус]]></reclStatus>
+                    <reclSalt><![CDATA[Salt]]></reclSalt>
+                    <reclApiKey><![CDATA[Api ключ]]></reclApiKey>
+                    <descr><![CDATA[Дет.инфа]]></descr>
+                    <onAccount><![CDATA[На счету]]></onAccount>
+                    <unpayed><![CDATA[Неоплаченых транзакций]]></unpayed>
+                    <balance><![CDATA[Баланс]]></balance>
+                    <newButton><![CDATA[Новый]]></newButton>
+                    <edit><![CDATA[Редактировать]]></edit>
+                    <delete><![CDATA[Удалить]]></delete>
+                </common>
+                <actions>
+                    <index>
+
+                    </index>
+                </actions>
+            </texts>
+        </Stats>
+    </ru>
+</mess>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <layerName type="StripTags" required="1"/>
+    <layerLink type="StripTags" required="1"/>
+    <defaultLink type="StripTags" required="1"/>
+</fields>

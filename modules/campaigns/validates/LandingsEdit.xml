@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <landingName type="StripTags" required="1"/>
+    <url type="StripTags" required="1"/>
+    <landingDescr type="StripTags" required="0"/>
+</fields>
